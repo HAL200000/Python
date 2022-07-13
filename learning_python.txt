@@ -1,0 +1,6 @@
+in python u can:
+import modules!
+in python u can:
+make classes!
+in python u can:
+read files!
